@@ -6,3 +6,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getarun4t)](https://github.com/getarun4t/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getarun4t&show_icons=true&theme=tokyonight&count_private=true)
+
