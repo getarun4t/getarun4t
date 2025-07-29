@@ -18,3 +18,16 @@ I’m currently expanding my knowledge in **Autonomous Driving**, **Robotics**, 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getarun4t&show_icons=true&theme=tokyonight&count_private=true)
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
+![AUTOSAR](https://img.shields.io/badge/Adaptive%20AUTOSAR-000000?style=flat&logo=AUTOSAR&logoColor=white)
+![SDV](https://img.shields.io/badge/SDV-0A74DA?style=flat&logo=none&logoColor=white)
+![ECU Development](https://img.shields.io/badge/ECU_Development-4A90E2?style=flat&logo=none&logoColor=white)
+![Automotive Embedded](https://img.shields.io/badge/Automotive_Embedded-1E90FF?style=flat&logo=none&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-4B8BBE?style=flat&logo=pytest&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-00D1B2?style=flat&logo=none&logoColor=white)
+
+
+
