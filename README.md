@@ -5,7 +5,7 @@ getarun4t/getarun4t is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-🔧 **Embedded Software Developer | C++ | SDV | Robotics | Automotive**
+🔧 **Embedded Software Developer | C++ | SDV | Robotics | Automotive | Python**
 
 I’m an Embedded Software Developer with 11+ years of experience, currently working on **Software Defined Vehicle (SDV)** features for the **Porsche PPE Platform**. My core expertise lies in **C++**, **Python**, **ROS 2**, and **Adaptive AUTOSAR**, with a strong passion for Robotics and Embedded Systems.
 
