@@ -21,6 +21,7 @@ I’m currently expanding my knowledge in **Autonomous Driving**, **Robotics**, 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
+![XML](https://img.shields.io/badge/XML-e44d26?style=flat&logo=none&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/Adaptive%20AUTOSAR-000000?style=flat&logo=AUTOSAR&logoColor=white)
 ![SDV](https://img.shields.io/badge/SDV-0A74DA?style=flat&logo=none&logoColor=white)
 ![ECU Development](https://img.shields.io/badge/ECU_Development-7A90E2?style=flat&logo=none&logoColor=white)
