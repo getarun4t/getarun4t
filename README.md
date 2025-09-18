@@ -14,9 +14,9 @@ Throughout my career, I’ve contributed across the full software lifecycle — 
 I’m currently expanding my knowledge in **Autonomous Driving**, **Robotics**, **Embedded AI**, and next-generation SDV architectures — always eager to explore innovations at the intersection of software and machines.
 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getarun4t)](https://github.com/getarun4t/github-readme-stats)
+[![Languages](https://github-readme-stats-flame-zeta-51.vercel.app/api/top-langs/?username=getarun4t)](https://github.com/getarun4t/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getarun4t&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-flame-zeta-51.vercel.app/api?username=getarun4t&show_icons=true&theme=tokyonight&count_private=true)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
