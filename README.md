@@ -5,13 +5,15 @@ getarun4t/getarun4t is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-🔧 **Embedded Software Developer | C++ | SDV | Robotics | Automotive | Python**
+🔧 Embedded Software Developer | C++ | ROS 2 | SDV | Robotics | Python | Automotive
 
-I’m an Embedded Software Developer with 11+ years of experience, currently working on **Software Defined Vehicle (SDV)** features for the **Porsche PPE Platform**. My core expertise lies in **C++**, **Python**, **ROS 2**, and **Adaptive AUTOSAR**, with a strong passion for Robotics and Embedded Systems.
+I am an Embedded Software Developer with 11+ years of experience, currently working on Software Defined Vehicle (SDV) features for the Porsche PPE Platform. My strengths lie in Modern C++, Python, ROS 2, and Adaptive AUTOSAR, with deep experience in ECU development and embedded automotive systems.
 
-Throughout my career, I’ve contributed across the full software lifecycle — from development and testing to integration — and have built CI/CD pipelines and scalable automation frameworks to ensure robust and maintainable systems.
+💡 Over the years, I’ve contributed across the entire software lifecycle — from development and testing to integration — building CI/CD pipelines, automation frameworks, and safety-compliant software (ISO 26262, MISRA).
 
-I’m currently expanding my knowledge in **Autonomous Driving**, **Robotics**, **Embedded AI**, and next-generation SDV architectures — always eager to explore innovations at the intersection of software and machines.
+🚀 I am actively expanding my expertise in Robotics, Autonomous Driving, and Embedded AI. To apply these skills, I am developing open-source projects in ROS 2 (TF, URDF, SLAM, Nav2), Computer Vision (OpenCV), and Deep Learning (CNNs, DNNs) — all available here on GitHub.
+
+📌 My long-term goal is to drive innovation at the intersection of Automotive, Robotics, and AI-powered Embedded Systems.
 
 
 [![Languages](https://github-readme-stats-flame-zeta-51.vercel.app/api/top-langs/?username=getarun4t)](https://github.com/getarun4t/github-readme-stats)
