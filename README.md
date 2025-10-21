@@ -4,7 +4,7 @@
 getarun4t/getarun4t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🚀 Embedded ECU & Perception Engineer | SDV | Robotics | AI Vision | C++ | Python | ROS 2 | AUTOSAR
+### 🚀 Embedded ECU & Perception Engineer | SDV | Robotics | AI Vision | C++ | Python | ROS 2 | AUTOSAR 
 
 I’m an Embedded ECU & Perception Engineer driving innovation at the intersection of Software Defined Vehicles (SDV), AI-based vision systems, and robotic validation automation. With 11+ years in automotive embedded engineering, I specialize in merging embedded control logic with AI-driven perception to build intelligent, self-validating automotive systems.
 
@@ -12,17 +12,17 @@ Currently, I deliver production-grade ECU features for the Porsche PPE SDV platf
 
 💡 Alongside production work, I develop AI-powered robotics pipelines using TensorFlow/Keras, OpenCV, and ROS 2 (MoveIt, TF, URDF) — enabling autonomous HMI interaction and accelerating SDV/ADAS validation cycles by replacing manual dependency with perception-based automation.
 
-⚙️ Core Engineering Stack
+#### ⚙️ Core Engineering Stack
 
-ECU & SDV Software: AUTOSAR Adaptive | OTA/Diagnostics | SOME/IP | UDS | Embedded C++ | ISO 26262 | ASPICE
+- ECU & SDV Software: AUTOSAR Adaptive | OTA/Diagnostics | SOME/IP | UDS | Embedded C++ | ISO 26262 | ASPICE
 
-Perception AI: TensorFlow / Keras | CNN / DNN Inference | OpenCV Vision Pipelines | Edge AI Integration
+- Perception AI: TensorFlow / Keras | CNN / DNN Inference | OpenCV Vision Pipelines | Edge AI Integration
 
-Robotics & Automation: ROS 2 | MoveIt | HMI Automation | AI-driven Validation | Continuous HIL Testing
+- Robotics & Automation: ROS 2 | MoveIt | HMI Automation | AI-driven Validation | Continuous HIL Testing
 
-DevOps & CI/CD: Jenkins | GitHub Actions | GTest / PyTest | Automated ECU Validation Pipelines
+- DevOps & CI/CD: Jenkins | GitHub Actions | GTest / PyTest | Automated ECU Validation Pipelines
 
-🌱 Passion & Goals
+#### 🌱 Passion & Goals
 
 I’m passionate about creating embedded systems that see, decide, and act — fusing perception, autonomy, and embedded intelligence to redefine how vehicles are built and validated.
 
@@ -32,7 +32,7 @@ ROS 2 robotics frameworks (TF, URDF, Nav2)
 
 Computer vision & deep learning (CNNs, DNNs)
 
-🤝 Open To
+#### 🤝 Open To
 
 📌 Collaborating with OEM innovation teams, SDV/ADAS R&D units, and robotics–perception teams/engineers shaping the next generation of autonomous automotive systems.
 
