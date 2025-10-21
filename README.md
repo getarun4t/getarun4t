@@ -4,16 +4,37 @@
 getarun4t/getarun4t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+🚀 Embedded ECU & Perception Engineer | SDV | Robotics | AI Vision | C++ | Python | ROS 2 | AUTOSAR
 
-🔧 Embedded Software Developer | C++ | ROS 2 | SDV | Robotics | Python | Automotive
+I’m an Embedded ECU & Perception Engineer driving innovation at the intersection of Software Defined Vehicles (SDV), AI-based vision systems, and robotic validation automation. With 11+ years in automotive embedded engineering, I specialize in merging embedded control logic with AI-driven perception to build intelligent, self-validating automotive systems.
 
-I am an Embedded Software Developer with 11+ years of experience, currently working on Software Defined Vehicle (SDV) features for the Porsche PPE Platform. My strengths lie in Modern C++, Python, ROS 2, and Adaptive AUTOSAR, with deep experience in ECU development and embedded automotive systems.
+Currently, I deliver production-grade ECU features for the Porsche PPE SDV platform, integrating Adaptive AUTOSAR, Modern C++ (C++17), CAN/Ethernet (UDS, SOME/IP), and OTA diagnostics within ISO 26262 / ASPICE-compliant workflows.
 
-💡 Over the years, I’ve contributed across the entire software lifecycle — from development and testing to integration — building CI/CD pipelines, automation frameworks, and safety-compliant software (ISO 26262, MISRA).
+💡 Alongside production work, I develop AI-powered robotics pipelines using TensorFlow/Keras, OpenCV, and ROS 2 (MoveIt, TF, URDF) — enabling autonomous HMI interaction and accelerating SDV/ADAS validation cycles by replacing manual dependency with perception-based automation.
 
-🚀 I am actively expanding my expertise in Robotics, Autonomous Driving, and Embedded AI. To apply these skills, I am developing open-source projects in ROS 2 (TF, URDF, SLAM, Nav2), Computer Vision (OpenCV), and Deep Learning (CNNs, DNNs) — all available here on GitHub.
+⚙️ Core Engineering Stack
 
-📌 My long-term goal is to drive innovation at the intersection of Automotive, Robotics, and AI-powered Embedded Systems.
+ECU & SDV Software: AUTOSAR Adaptive | OTA/Diagnostics | SOME/IP | UDS | Embedded C++ | ISO 26262 | ASPICE
+
+Perception AI: TensorFlow / Keras | CNN / DNN Inference | OpenCV Vision Pipelines | Edge AI Integration
+
+Robotics & Automation: ROS 2 | MoveIt | HMI Automation | AI-driven Validation | Continuous HIL Testing
+
+DevOps & CI/CD: Jenkins | GitHub Actions | GTest / PyTest | Automated ECU Validation Pipelines
+
+🌱 Passion & Goals
+
+I’m passionate about creating embedded systems that see, decide, and act — fusing perception, autonomy, and embedded intelligence to redefine how vehicles are built and validated.
+
+Here on GitHub, I share open-source projects exploring:
+
+ROS 2 robotics frameworks (TF, URDF, Nav2)
+
+Computer vision & deep learning (CNNs, DNNs)
+
+🤝 Open To
+
+📌 Collaborating with OEM innovation teams, SDV/ADAS R&D units, and robotics–perception teams/engineers shaping the next generation of autonomous automotive systems.
 
 
 [![Languages](https://github-readme-stats-flame-zeta-51.vercel.app/api/top-langs/?username=getarun4t)](https://github.com/getarun4t/github-readme-stats)
